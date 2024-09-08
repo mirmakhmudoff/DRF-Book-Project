@@ -83,7 +83,7 @@ Access the Django admin panel at `http://127.0.0.1:8000/admin/` to manage books 
 - **PUT /categories/{id}/**: Update a specific category.
 - **DELETE /categories/{id}/**: Delete a specific category.
 
-- ### Books
+### Books
 
 - **GET /books/**: Retrieve a list of all books.
 - **POST /books/**: Create a new book.
